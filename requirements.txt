@@ -1,0 +1,41 @@
+# Core data analysis
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Explainability
+shap
+
+# Model persistence
+joblib
+
+# Visualization
+matplotlib
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+requests
+
+# Excel input
+openpyxl
+
+# Jupyter
+jupyter
+ipykernel
+
+
+credit-risk-pd/
+├── requirements.txt
+├── README.md
+├── data/
+├── notebooks/
+├── src/
+├── outputs/
+└── app/
